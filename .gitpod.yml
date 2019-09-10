@@ -12,3 +12,4 @@ tasks:
 vscode:
   extensions:
     - dbaeumer.vscode-eslint@1.9.1:YVcwmzKVVl+zZ+wMB02GjQ==
+    - esbenp.prettier-vscode@2.2.2:KF7uv+/v78QclIpOv6wh6g==
